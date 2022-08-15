@@ -101,11 +101,11 @@
 
    Нормальное состояние процессов:
 
-   ![](/home/stanislav/Загрузки/apache1.png)
+   ![](https://github.com/st1lark/practice_admin/blob/main/apache1.png)
 
    Приведение одного из дочерних процессов в состояние zombie:
 
-   ![](/home/stanislav/Загрузки/apache2.png)
+   ![](https://github.com/st1lark/practice_admin/blob/main/apache2.png)
 
 2. **Напишите правило в iptables для логирования исходящих запросов на порт 3306.**
 
@@ -224,7 +224,7 @@
 
    Для демонстрации же я нашел один вариант решения задачи, это перенаправление вывод в файловый дескриптор потока ввода процесса `grep`:
 
-   ![](/home/stanislav/Изображения/redir.png)
+   ![](https://github.com/st1lark/practice_admin/blob/main/redir.png)
 
    
 
@@ -312,4 +312,4 @@
 
    Также прикладываю скришот с окном админера:
 
-   ![](/home/stanislav/Изображения/adminer.png)
+   ![](https://github.com/st1lark/practice_admin/blob/main/adminer.png)
